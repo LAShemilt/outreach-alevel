@@ -1,0 +1,8 @@
+name: ribston_hall
+channels:
+  - conda-forge
+  - anaconda
+dependencies:
+  - python>=3.8
+  - jupyter
+  - sklearn
